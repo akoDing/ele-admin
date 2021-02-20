@@ -27,10 +27,6 @@
 
 **This project does not support low version browsers (e.g. IE). Please add polyfill by yourself.**
 
-### Flatlogic
-
-<a href="https://flatlogic.com/admin-dashboards?from=vue-element-admin"><img width="150px" src="https://wpimg.wallstcn.com/9c0b719b-5551-4c1e-b776-63994632d94a.png" /></a><p>Admin Dashboard Templates made with Vue, React and Angular.</p>
-
 ## Features
 
 ```
